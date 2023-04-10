@@ -1,7 +1,7 @@
 body {
   font-family: "Poppins", sans-serif;
   color: #000000;
-  background-color: #ffffff;
+  background-color: #0d0d0d;
 }
 
 .layout_padding {
@@ -211,7 +211,7 @@ a:focus {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  color: #ffffff;
+  color: #030b2c;
 }
 
 .slider_section #carouselExampleIndicators {
