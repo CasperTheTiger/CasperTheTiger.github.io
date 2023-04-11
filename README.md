@@ -1,3 +1,3 @@
-# mad-folio.github.io
+# casperthetiger.github.io
 
-A simple website promoting the minecraft server.
+A simple website helping to rasie awareness for captive animals.
